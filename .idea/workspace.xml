@@ -49,6 +49,7 @@
       <workItem from="1598665251839" duration="90000" />
       <workItem from="1598665376613" duration="146000" />
       <workItem from="1598672266337" duration="3191000" />
+      <workItem from="1606114399651" duration="2455000" />
     </task>
     <task id="LOCAL-00001" summary="Portafolio v1.0">
       <created>1598664901258</created>
@@ -93,7 +94,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Portafolio v1.0" />
     <MESSAGE value="Favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Favicon" />
+    <MESSAGE value="Actualizacion de info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion de info" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598665513951">
