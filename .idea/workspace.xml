@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4537205-6314-4d8f-9135-53c1d066f838" name="Default Changelist" comment="" />
+    <list default="true" id="f4537205-6314-4d8f-9135-53c1d066f838" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +51,8 @@
       <workItem from="1598672266337" duration="3191000" />
       <workItem from="1606114399651" duration="2455000" />
       <workItem from="1606116959182" duration="54000" />
+      <workItem from="1606357574757" duration="162000" />
+      <workItem from="1606495227923" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Portafolio v1.0">
       <created>1598664901258</created>
@@ -77,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606116975278</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Actualizacion">
+      <created>1606357677421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606357677421</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,13 +113,18 @@
     <MESSAGE value="Favicon" />
     <MESSAGE value="Actualizacion de info" />
     <MESSAGE value="Actualizacion datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion datos" />
+    <MESSAGE value="Actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606116978174">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606495270943">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606116978174" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606495270943" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606357679562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606357679562" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598665336767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
