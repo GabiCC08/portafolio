@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
@@ -33,7 +28,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Frontend_ReparaYa.git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -56,6 +51,8 @@
       <workItem from="1606538773423" duration="140000" />
       <workItem from="1606543565552" duration="1708000" />
       <workItem from="1606545873721" duration="13000" />
+      <workItem from="1606550236156" duration="306000" />
+      <workItem from="1606550824104" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Portafolio v1.0">
       <created>1598664901258</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606545269407</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Cambio inicio">
+      <created>1606550519319</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606550519319</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +137,8 @@
     <MESSAGE value="Actualizacion" />
     <MESSAGE value="Link Linkedin" />
     <MESSAGE value="Nuevo Fondo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nuevo Fondo" />
+    <MESSAGE value="Cambio inicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio inicio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606545883378">
@@ -144,10 +149,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606495270943" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606545287893">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606550526369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606545287893" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606550526369" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598665336767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
