@@ -285,7 +285,7 @@ section {
 }
 
 .section-bg {
-  background: rgba(246, 241, 209, 0.15);
+  background: rgba(246, 241, 209, 0.25);
 }
 
 .section-title {
@@ -588,6 +588,11 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
+}
+
+.portfolio .img-fluid{
+  height: 200px;
+  object-fit: cover;
 }
 
 /*--------------------------------------------------------------
